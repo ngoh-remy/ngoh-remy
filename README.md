@@ -1,4 +1,4 @@
-# Hi, I'm Remy 👋
+# Hi, I'm Remy 
 
 Software Engineering student (B.Tech, **Data Science & AI**) at the University of Buea, Cameroon.
 I build AI-powered web applications — mostly things that solve problems I can see around me.
